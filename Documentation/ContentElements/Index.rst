@@ -4,7 +4,7 @@
 .. _content-elements:
 
 ================
-Content Elements
+Marketing
 ================
 
 .. container:: row m-0 p-0
